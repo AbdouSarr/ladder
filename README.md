@@ -8,6 +8,7 @@
 <!-- TODO: Add hero image/GIF showing import in action -->
 <!-- ![Ladder Demo](docs/images/demo.gif) -->
 
+
 ## Features
 
 - **One-Click Setup** — Install gmsh dependency directly from Blender preferences
@@ -23,6 +24,8 @@
 
 ## Installation
 
+![Installation](https://github.com/user-attachments/assets/5be18bc9-b720-453f-a278-ce7143eff954)
+
 ### Method 1: Download Release (Recommended)
 
 1. Download the latest release from [Releases](https://github.com/abdousarr/ladder/releases)
@@ -30,9 +33,6 @@
 3. Click **Install...** and select the downloaded `.zip` file
 4. Enable the "Ladder" add-on
 5. Click **Install gmsh** in the add-on preferences
-
-<!-- TODO: Add installation GIF -->
-<!-- ![Installation](docs/images/installation.gif) -->
 
 ### Method 2: Manual Installation
 
@@ -46,6 +46,8 @@
 
 ## Usage
 
+![Menu Import](https://github.com/user-attachments/assets/59193151-12aa-464e-af95-21740772daf5)
+
 ### Import via Menu
 
 1. Go to **File → Import → CAD Files (.step, .iges, .brep)**
@@ -53,15 +55,9 @@
 3. Adjust import settings in the sidebar
 4. Click **Import CAD**
 
-<!-- TODO: Add menu import GIF -->
-<!-- ![Menu Import](docs/images/menu-import.gif) -->
-
 ### Drag & Drop
 
 Simply drag CAD files from your file manager directly into Blender's 3D viewport.
-
-<!-- TODO: Add drag and drop GIF -->
-<!-- ![Drag and Drop](docs/images/drag-drop.gif) -->
 
 ## Import Options
 
