@@ -1,3 +1,6 @@
+
+<img width="100" height="90" alt="Screenshot 2025-12-02 at 11 57 29" src="https://github.com/user-attachments/assets/591c7a88-62d7-44e9-bf33-7bb0e76a7cfa" />
+
 # Ladder
 
 **CAD Import for Blender** — Import STEP, IGES, and BREP files directly into Blender 4.0+
